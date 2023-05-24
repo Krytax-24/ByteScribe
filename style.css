@@ -1,0 +1,14 @@
+footer {
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+
+footer .footer-content span a {
+    color: #198754;
+    text-decoration: none;
+}
+  
+footer .footer-content span a:hover {
+    text-decoration: underline;
+}
