@@ -19,5 +19,5 @@ Cpp with Input
 Python without Input
 ![pyNoInput](https://github.com/Krytax-24/ByteScribe/assets/81406458/1b82409b-d54b-4a32-bad4-eebd14f7a798)
 
-Python without Input
+Python with Input
 ![pyInput](https://github.com/Krytax-24/ByteScribe/assets/81406458/7440fc94-cd1f-417d-af8e-d68071630d6a)
